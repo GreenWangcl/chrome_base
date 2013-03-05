@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185276/trunk/src/build/android
+END
+findbugs_diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/177208/trunk/src/build/android/findbugs_diff.py
+END
+envsetup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/184544/trunk/src/build/android/envsetup.sh
+END
+adb_gdb_content_shell
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/179428/trunk/src/build/android/adb_gdb_content_shell
+END
+adb_run_content_shell
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/179428/trunk/src/build/android/adb_run_content_shell
+END
+adb_gdb_chromium_testshell
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/164808/trunk/src/build/android/adb_gdb_chromium_testshell
+END
+lighttpd_server.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/162519/trunk/src/build/android/lighttpd_server.py
+END
+run_update_verification.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/176218/trunk/src/build/android/run_update_verification.py
+END
+adb_gdb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/162704/trunk/src/build/android/adb_gdb
+END
+adb_run_chromium_testshell
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/166357/trunk/src/build/android/adb_run_chromium_testshell
+END
+screenshot.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/172181/trunk/src/build/android/screenshot.py
+END
+adb_device_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/158246/trunk/src/build/android/adb_device_functions.sh
+END
+device_stats_monitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/175397/trunk/src/build/android/device_stats_monitor.py
+END
+adb_gdb_drt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/162704/trunk/src/build/android/adb_gdb_drt
+END
+gdb_content_shell
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/179428/trunk/src/build/android/gdb_content_shell
+END
+emulator.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/175894/trunk/src/build/android/emulator.py
+END
+run_browser_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/183982/trunk/src/build/android/run_browser_tests.py
+END
+enable_asserts.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/145872/trunk/src/build/android/enable_asserts.py
+END
+adb_kill_content_shell
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/179428/trunk/src/build/android/adb_kill_content_shell
+END
+adb_reverse_forwarder.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/182239/trunk/src/build/android/adb_reverse_forwarder.py
+END
+prepare_library_for_apk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/173688/trunk/src/build/android/prepare_library_for_apk
+END
+adb_chromium_testshell_command_line
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/164808/trunk/src/build/android/adb_chromium_testshell_command_line
+END
+java_cpp_template.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/177825/trunk/src/build/android/java_cpp_template.gypi
+END
+device_status_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/176321/trunk/src/build/android/device_status_check.py
+END
+gdb_apk
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/179428/trunk/src/build/android/gdb_apk
+END
+cpufeatures.gypi
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/169026/trunk/src/build/android/cpufeatures.gypi
+END
+adb_install_apk.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/179275/trunk/src/build/android/adb_install_apk.py
+END
+process_resources.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/185218/trunk/src/build/android/process_resources.py
+END
+run_instrumentation_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/182892/trunk/src/build/android/run_instrumentation_tests.py
+END
+PRESUBMIT.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/177241/trunk/src/build/android/PRESUBMIT.py
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/168283/trunk/src/build/android/AndroidManifest.xml
+END
+bb_run_sharded_steps.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/184703/trunk/src/build/android/bb_run_sharded_steps.py
+END
+adb_logcat_printer.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/145653/trunk/src/build/android/adb_logcat_printer.py
+END
+envsetup_functions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/184449/trunk/src/build/android/envsetup_functions.sh
+END
+adb_content_shell_command_line
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/155237/trunk/src/build/android/adb_content_shell_command_line
+END
+run_monkey_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/177252/trunk/src/build/android/run_monkey_test.py
+END
+adb_logcat_monitor.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/145653/trunk/src/build/android/adb_logcat_monitor.py
+END
+run_tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/179687/trunk/src/build/android/run_tests.py
+END

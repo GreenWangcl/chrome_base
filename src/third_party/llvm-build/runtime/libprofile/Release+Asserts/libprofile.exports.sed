@@ -1,0 +1,12 @@
+_llvm_start_edge_profiling
+_llvm_start_opt_edge_profiling
+_llvm_start_path_profiling
+_llvm_start_basic_block_tracing
+_llvm_trace_basic_block
+_llvm_increment_path_count
+_llvm_decrement_path_count
+_llvm_gcda_start_file
+_llvm_gcda_increment_indirect_counter
+_llvm_gcda_emit_function
+_llvm_gcda_emit_arcs
+_llvm_gcda_end_file

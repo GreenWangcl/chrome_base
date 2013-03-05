@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/183639/trunk/src/build/android/ant
+END
+chromium-jars.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/183639/trunk/src/build/android/ant/chromium-jars.xml
+END
+create-test-jar.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/176202/trunk/src/build/android/ant/create-test-jar.js
+END
+common.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/174065/trunk/src/build/android/ant/common.xml
+END
+sdk-targets.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/173688/trunk/src/build/android/ant/sdk-targets.xml
+END
+chromium-apk.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/183639/trunk/src/build/android/ant/chromium-apk.xml
+END
+chromium-debug.keystore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/155850/trunk/src/build/android/ant/chromium-debug.keystore
+END

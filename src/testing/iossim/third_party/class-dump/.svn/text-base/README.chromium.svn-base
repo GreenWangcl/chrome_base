@@ -1,0 +1,10 @@
+Name: class-dump
+URL: http://www.codethecode.com/projects/class-dump/
+Version: 3.3.3
+License: GPL
+
+Description:
+Used to generate Objective C interfaces for things not otherwise documented.
+
+Local Modifications:
+The is the 3.3.3 distro minus the prebuilt binary.

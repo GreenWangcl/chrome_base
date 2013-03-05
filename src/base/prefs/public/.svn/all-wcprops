@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/184344/trunk/src/base/prefs/public
+END
+pref_change_registrar_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/182485/trunk/src/base/prefs/public/pref_change_registrar_unittest.cc
+END
+pref_member_unittest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182485/trunk/src/base/prefs/public/pref_member_unittest.cc
+END
+pref_change_registrar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/182918/trunk/src/base/prefs/public/pref_change_registrar.cc
+END
+pref_member.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/183021/trunk/src/base/prefs/public/pref_member.cc
+END
+pref_change_registrar.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/182918/trunk/src/base/prefs/public/pref_change_registrar.h
+END
+pref_member.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/184344/trunk/src/base/prefs/public/pref_member.h
+END
