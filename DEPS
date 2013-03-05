@@ -51,6 +51,8 @@ deps = {
   # class-dump utility to generate header files for undocumented SDKs
   "src/net/third_party/nss":
     Var('chromium_svn')+'/net/third_party/nss@'+Var('chromium_rev'),
+  "src/third_party/zlib":
+    Var('chromium_svn')+'/third_party/zlib@'+Var('chromium_rev'),
 }
 
 deps_os = {
