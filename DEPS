@@ -53,6 +53,8 @@ deps = {
     Var('chromium_svn')+'/net/third_party/nss@'+Var('chromium_rev'),
   "src/third_party/zlib":
     Var('chromium_svn')+'/third_party/zlib@'+Var('chromium_rev'),
+  "src/tools/xdisplaycheck":
+    Var('chromium_svn')+'/tools/xdisplaycheck@'+Var('chromium_rev'),
 }
 
 deps_os = {
