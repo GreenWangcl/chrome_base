@@ -42,10 +42,15 @@ deps = {
   'src/third_party/modp_b64':
     Var('chromium_svn')+'/third_party/modp_b64@'+Var('chromium_rev'),
     
+  # For ios
+  # class-dump utility to generate header files for undocumented SDKs
+  "src/testing/iossim/third_party/class-dump":
+    Var('chromium_trunk')+"/deps/third_party/class-dump@147231",
     
-    # class-dump utility to generate header files for undocumented SDKs
-    "src/testing/iossim/third_party/class-dump":
-      Var('chromium_trunk')+"/deps/third_party/class-dump@147231",
+  # For Unix
+  # class-dump utility to generate header files for undocumented SDKs
+  "src/net/third_party/nss":
+    Var('chromium_svn')+'/net/third_party/nss@'+Var('chromium_rev'),
 }
 
 deps_os = {
