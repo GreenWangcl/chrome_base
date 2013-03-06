@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/167455/trunk/src/net/third_party/nss/ssl/bodge
+END
+alghmac.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/alghmac.h
+END
+secure_memcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/secure_memcmp.c
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/loader.c
+END
+genload.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/genload.c
+END
+loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/loader.h
+END
+nssrenam.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/40991/trunk/src/net/third_party/nss/ssl/bodge/nssrenam.h
+END
+blapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/124862/trunk/src/net/third_party/nss/ssl/bodge/blapi.h
+END
