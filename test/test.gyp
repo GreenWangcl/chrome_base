@@ -6,6 +6,7 @@
       'mac_bundle': 1,
       'dependencies':[
         '<(DEPTH)/base/base.gyp:base',
+        '<(DEPTH)/base/base.gyp:base_unittests',
       ],
       'sources': [
         'test.cpp',
